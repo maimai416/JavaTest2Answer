@@ -43,5 +43,7 @@ public class PracticeTest6 {
 			}
 			System.out.println();
 		}
+		
+		//test
 	}
 }
